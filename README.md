@@ -5,8 +5,7 @@
 This project is fully optimized for performance, accessibility, and search engine visibility (SEO).
 
 ## 🚀 Live Demo
-Experience the live application here: **[[sia-speed.pages.dev](https://sia-speed.pages.dev/)](https://sia-speed.pages.dev)**
-
+Experience the live application here: **[[sia-speed.pages.dev](https://sia-speed.pages.dev/)
 ---
 
 ## ✨ Features
