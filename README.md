@@ -3,7 +3,7 @@
 **SIA Speed** is a modern, web-based internet speed testing application designed with a stunning glassmorphism user interface. It simulates real-time network performance analytics including **Download Speed, Upload Speed, Ping, and Jitter** across highly optimized global edge servers.
 
 ## 🚀 Live Demo
-**Experience the live application here:** [https://sia-speed.pages.dev](https://sia-speed.pages.dev/)
+**Test your internet speed from here:** [https://sia-speed.pages.dev](https://sia-speed.pages.dev/)
 ---
 
 ## ✨ Features
